@@ -129,9 +129,6 @@ fill:#9DB0D1
   background: url("../img/grup_cloud.png") repeat-x top / auto 200px,
     linear-gradient(180deg, rgba(135, 198, 235, 0) 8.33%, #87C6EB 93.06%);
 }
-.caption{
-
-}
 .elements {
   background: #87C6EB;
 }
@@ -169,9 +166,6 @@ fill:#9DB0D1
 }
 .card-text strong {
   font-weight: bold;
-  /*line-height: 24px;
-  color: #000000;
-  margin: 20px;*/
 }
 .container {
   width: 1200px;
@@ -235,9 +229,6 @@ fill:#9DB0D1
   margin: 0px 0 10px 0;
   text-align: center;
   line-height: 80px;
-  }
-.faq a {
-  text-decoration: none;
   }
 .social a {
     text-decoration: none;
